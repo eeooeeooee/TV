@@ -143,6 +143,8 @@ http://192.168.1.1:9394/rtp/239.77.0.253:5146
 http://192.168.1.1:9394/rtp/239.77.0.254:5146
 #EXTINF:-1 tvg-id="茂名综合" tvg-name="茂名综合" tvg-logo="https://epg.112114.xyz/logo/茂名综合.png" group-title="IPTV-广东地方台",茂名综合高清
 http://192.168.1.1:9394/rtp/239.77.0.206:5146
+#EXTINF:-1 tvg-id="茂名公共" tvg-name="茂名公共" tvg-logo="https://epg.112114.xyz/logo/茂名公共.png" group-title="IPTV-广东地方台",茂名公共高清
+http://192.168.1.1:9394/rtp/239.77.0.207:5146
 #EXTINF:-1 tvg-id="汕头综合" tvg-name="汕头综合" tvg-logo="https://epg.112114.xyz/logo/汕头综合.png" group-title="IPTV-广东地方台",汕头综合高清
 http://192.168.1.1:9394/rtp/239.77.1.130:5146
 #EXTINF:-1 tvg-id="汕头综合" tvg-name="汕头综合" tvg-logo="https://epg.112114.xyz/logo/汕头综合.png" group-title="IPTV-广东地方台",汕头综合高清
