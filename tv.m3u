@@ -485,8 +485,6 @@ http://192.168.1.1:9394/rtp/239.253.43.40:5146
 http://192.168.1.1:9394/rtp/239.253.43.114:5146
 #EXTINF:-1 tvg-id="早期教育" tvg-name="早期教育" tvg-logo="https://epg.112114.xyz/logo/早期教育.png" group-title="IPTV-数字付费",早期教育高清
 http://192.168.1.1:9394/rtp/239.77.0.180:5146
-#EXTINF:-1 tvg-id="中国交通" tvg-name="中国交通" tvg-logo="https://epg.112114.xyz/logo/中国交通.png" group-title="IPTV-数字付费",中国交通
-http://192.168.1.1:9394/rtp/239.77.1.249:5146
 #EXTINF:-1 tvg-id="中国天气" tvg-name="中国天气" tvg-logo="https://epg.112114.xyz/logo/中国天气.png" group-title="IPTV-数字付费",中国天气高清
 http://192.168.1.1:9394/rtp/239.77.1.2:5146
 #EXTINF:-1 tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="IPTV-数字付费",茶
@@ -535,8 +533,6 @@ http://192.168.1.1:9394/rtp/239.253.43.83:5146
 http://192.168.1.1:9394/rtp/239.77.1.114:5146
 #EXTINF:-1,九屏同播
 http://192.168.1.1:9394/rtp/239.77.1.234:5146
-#EXTINF:-1,四屏同播
-http://192.168.1.1:9394/rtp/239.77.1.107:5146
 #EXTINF:-1,广东IPTV广告
 http://192.168.1.1:9394/rtp/239.77.0.185:5146
 #EXTINF:-1,网络通道6HD
