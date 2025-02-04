@@ -7,6 +7,8 @@ http://192.168.1.1:9394/rtp/239.77.0.244:5146
 http://192.168.1.1:9394/rtp/239.77.0.245:5146
 #EXTINF:-1 tvg-id="广东综艺" tvg-name="广东综艺" tvg-logo="https://epg.112114.xyz/logo/广东综艺.png" group-title="IPTV-广东电视台",广东综艺 宽色域AVS2(4k) (AVS2)
 http://192.168.1.1:9394/rtp/239.77.0.252:5146
+#EXTINF:-1 tvg-id="南国都市" tvg-name="南国都市" tvg-logo="https://epg.112114.xyz/logo/南国都市.png" group-title="IPTV-广州电视台",南国都市 4K
+http://192.168.1.1:9394/rtp/239.253.43.99:5146
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="IPTV-央视",CCTV-4K 4K
 http://192.168.1.1:9394/rtp/239.77.0.194:5146
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="IPTV-央视",CCTV-4K 4K50p
@@ -29,10 +31,6 @@ http://192.168.1.1:9394/rtp/239.77.0.114:5146
 http://192.168.1.1:9394/rtp/239.77.0.173:5146
 #EXTINF:-1 tvg-id="广东民生" tvg-name="广东民生" tvg-logo="https://epg.112114.xyz/logo/广东民生.png" group-title="IPTV-广东电视台",广东民生高清
 http://192.168.1.1:9394/rtp/239.77.0.225:5146
-#EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://epg.112114.xyz/logo/广东体育.png" group-title="IPTV-广东电视台",广东体育高清-测试
-http://192.168.1.1:9394/rtp/239.77.0.112:5146
-#EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://epg.112114.xyz/logo/广东体育.png" group-title="IPTV-广东电视台",广东体育超清
-http://192.168.1.1:9394/rtp/239.77.0.168:5146
 #EXTINF:-1 tvg-id="广东经济科教" tvg-name="广东经济科教" tvg-logo="https://epg.112114.xyz/logo/广东经济科教.png" group-title="IPTV-广东电视台",经济科教高清
 http://192.168.1.1:9394/rtp/239.77.0.85:5146
 #EXTINF:-1 tvg-id="广东经济科教" tvg-name="广东经济科教" tvg-logo="https://epg.112114.xyz/logo/广东经济科教.png" group-title="IPTV-广东电视台",经济科教超清
