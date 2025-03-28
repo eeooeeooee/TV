@@ -51,6 +51,8 @@ http://192.168.1.1:9394/rtp/239.77.0.179:5146
 http://192.168.1.1:9394/rtp/239.77.0.19:5146
 #EXTINF:-1 tvg-id="南方购物" tvg-name="南方购物" tvg-logo="https://epg.112114.xyz/logo/南方购物.png" group-title="IPTV-广东电视台",南方购物
 http://192.168.1.1:9394/rtp/239.77.0.22:5146
+#EXTINF:-1 tvg-id="南方购物" tvg-name="南方购物" tvg-logo="https://epg.112114.xyz/logo/南方购物.png" group-title="IPTV-广东电视台",南方购物高清
+http://192.168.1.1:9394/rtp/239.77.0.241:5146
 #EXTINF:-1 tvg-id="岭南戏曲" tvg-name="岭南戏曲" tvg-logo="https://epg.112114.xyz/logo/岭南戏曲.png" group-title="IPTV-广东电视台",岭南戏曲高清
 http://192.168.1.1:9394/rtp/239.77.0.122:5146
 #EXTINF:-1 tvg-id="现代教育" tvg-name="现代教育" tvg-logo="https://epg.112114.xyz/logo/现代教育.png" group-title="IPTV-广东电视台",现代教育高清
@@ -79,10 +81,14 @@ http://192.168.1.1:9394/rtp/239.77.1.124:5146
 http://192.168.1.1:9394/rtp/239.77.1.177:5146
 #EXTINF:-1 tvg-id="深圳电视剧频道" tvg-name="深圳电视剧频道" tvg-logo="https://epg.112114.xyz/logo/深圳电视剧频道.png" group-title="IPTV-深圳电视台",深圳电视剧频道高清
 http://192.168.1.1:9394/rtp/239.77.1.125:5146
+#EXTINF:-1 tvg-id="深圳财经生活" tvg-name="深圳财经生活" tvg-logo="https://epg.112114.xyz/logo/深圳财经生活.png" group-title="IPTV-深圳电视台",深圳财经生活高清
+http://192.168.1.1:9394/rtp/239.77.1.242:5146
 #EXTINF:-1 tvg-id="深圳体育健康" tvg-name="深圳体育健康" tvg-logo="https://epg.112114.xyz/logo/深圳体育健康.png" group-title="IPTV-深圳电视台",深圳体育健康高清
 http://192.168.1.1:9394/rtp/239.77.1.128:5146
 #EXTINF:-1 tvg-id="深圳体育健康" tvg-name="深圳体育健康" tvg-logo="https://epg.112114.xyz/logo/深圳体育健康.png" group-title="IPTV-深圳电视台",深圳体育健康高清
 http://192.168.1.1:9394/rtp/239.77.1.140:5146
+#EXTINF:-1 tvg-id="深圳少儿频道" tvg-name="深圳少儿频道" tvg-logo="https://epg.112114.xyz/logo/深圳少儿频道.png" group-title="IPTV-深圳电视台",深圳少儿频道高清
+http://192.168.1.1:9394/rtp/239.77.1.244:5146
 #EXTINF:-1 tvg-id="深圳宝安频道" tvg-name="深圳宝安频道" tvg-logo="https://epg.112114.xyz/logo/深圳宝安频道.png" group-title="IPTV-深圳电视台",深圳宝安频道高清
 http://192.168.1.1:9394/rtp/239.77.1.67:5146
 #EXTINF:-1 tvg-id="深圳龙岗频道" tvg-name="深圳龙岗频道" tvg-logo="https://epg.112114.xyz/logo/深圳龙岗频道.png" group-title="IPTV-深圳电视台",深圳龙岗频道高清
@@ -97,6 +103,8 @@ http://192.168.1.1:9394/rtp/239.77.0.141:5146
 http://192.168.1.1:9394/rtp/239.77.0.140:5146
 #EXTINF:-1 tvg-id="揭阳综合" tvg-name="揭阳综合" tvg-logo="https://epg.112114.xyz/logo/揭阳综合.png" group-title="IPTV-广东地方台",揭阳综合高清
 http://192.168.1.1:9394/rtp/239.77.0.229:5146
+#EXTINF:-1 tvg-id="揭阳生活" tvg-name="揭阳生活" tvg-logo="https://epg.112114.xyz/logo/揭阳生活.png" group-title="IPTV-广东地方台",揭阳生活高清
+http://192.168.1.1:9394/rtp/239.77.0.251:5146
 #EXTINF:-1 tvg-id="汕尾新闻综合" tvg-name="汕尾新闻综合" tvg-logo="https://epg.112114.xyz/logo/汕尾新闻综合.png" group-title="IPTV-广东地方台",汕尾新闻综合高清
 http://192.168.1.1:9394/rtp/239.77.0.25:5146
 #EXTINF:-1 tvg-id="汕尾文化生活" tvg-name="汕尾文化生活" tvg-logo="https://epg.112114.xyz/logo/汕尾文化生活.png" group-title="IPTV-广东地方台",汕尾文化生活高清
@@ -123,6 +131,8 @@ http://192.168.1.1:9394/rtp/239.253.43.214:5146
 http://192.168.1.1:9394/rtp/239.253.43.33:5146
 #EXTINF:-1 tvg-id="清远文旅生活" tvg-name="清远文旅生活" tvg-logo="https://epg.112114.xyz/logo/清远文旅生活.png" group-title="IPTV-广东地方台",清远文旅生活高清
 http://192.168.1.1:9394/rtp/239.253.43.34:5146
+#EXTINF:-1 tvg-id="云浮综合" tvg-name="云浮综合" tvg-logo="https://epg.112114.xyz/logo/云浮综合.png" group-title="IPTV-广东地方台",云浮综合高清
+http://192.168.1.1:9394/rtp/239.77.0.253:5146
 #EXTINF:-1 tvg-id="云浮文旅" tvg-name="云浮文旅" tvg-logo="https://epg.112114.xyz/logo/云浮文旅.png" group-title="IPTV-广东地方台",云浮文旅高清
 http://192.168.1.1:9394/rtp/239.77.0.254:5146
 #EXTINF:-1 tvg-id="茂名综合" tvg-name="茂名综合" tvg-logo="https://epg.112114.xyz/logo/茂名综合.png" group-title="IPTV-广东地方台",茂名综合高清
@@ -563,6 +573,8 @@ http://192.168.1.1:9394/rtp/239.253.43.82:5146
 http://192.168.1.1:9394/rtp/239.253.43.83:5146
 #EXTINF:-1,Unknown@239.77.1.114:5146
 http://192.168.1.1:9394/rtp/239.77.1.114:5146
+#EXTINF:-1,九屏同播
+http://192.168.1.1:9394/rtp/239.77.1.234:5146
 #EXTINF:-1,四屏同播
 http://192.168.1.1:9394/rtp/239.77.1.107:5146
 #EXTINF:-1,广东IPTV广告
