@@ -473,8 +473,6 @@ http://192.168.1.1:9394/rtp/239.253.43.29:5146
 http://192.168.1.1:9394/rtp/239.253.43.6:5146
 #EXTINF:-1 tvg-id="卫生健康" tvg-name="卫生健康" tvg-logo="https://epg.112114.xyz/logo/卫生健康.png" group-title="IPTV-央视网台",卫生健康高清
 http://192.168.1.1:9394/rtp/239.77.0.212:5146
-#EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://epg.112114.xyz/logo/CHC影迷电影.png" group-title="IPTV-央视网台",CHC影迷电影高清
-http://192.168.1.1:9394/rtp/239.77.0.27:5146
 #EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://epg.112114.xyz/logo/金鹰卡通.png" group-title="IPTV-数字付费",金鹰卡通高清
 http://192.168.1.1:9394/rtp/239.77.0.164:5146
 #EXTINF:-1 tvg-id="CETV-1" tvg-name="CETV-1" tvg-logo="https://epg.112114.xyz/logo/CETV-1.png" group-title="IPTV-数字付费",CETV-1高清
