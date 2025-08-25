@@ -1,8 +1,6 @@
 #EXTM3U name="广东电信IPTV"
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://epg.112114.xyz/logo/广东卫视.png" group-title="IPTV-广东电视台",广东卫视 4K
 http://192.168.1.1:9394/rtp/239.77.0.65:5146
-#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://epg.112114.xyz/logo/广东卫视.png" group-title="IPTV-广东电视台",广东卫视 50p 4K
-http://192.168.1.1:9394/rtp/239.77.0.66:5146
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://epg.112114.xyz/logo/广东卫视.png" group-title="IPTV-广东电视台",广东卫视 25p 4K
 http://192.168.1.1:9394/rtp/239.77.0.27:5146
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://epg.112114.xyz/logo/广东卫视.png" group-title="IPTV-广东电视台",广东卫视 4K (AVS2)
@@ -31,10 +29,12 @@ http://192.168.1.1:9394/rtp/239.77.0.174:5146
 http://192.168.1.1:9394/rtp/239.77.1.180:5146
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png" group-title="IPTV-卫视",北京卫视 4K
 http://192.168.1.1:9394/rtp/239.77.0.2:5146
-#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png" group-title="IPTV-卫视",北京卫视 宽色域 50p 4K
-http://192.168.1.1:9394/rtp/239.77.0.3:5146
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png" group-title="IPTV-卫视",北京卫视 4K
 http://192.168.1.1:9394/rtp/239.77.1.13:5146
+#EXTINF:-1,广东IPTV广告
+http://192.168.1.1:9394/rtp/239.77.0.153:5146
+#EXTINF:-1,广东IPTV广告
+http://192.168.1.1:9394/rtp/239.77.0.233:5146
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://epg.112114.xyz/logo/广东卫视.png" group-title="IPTV-广东电视台",广东卫视高清
 http://192.168.1.1:9394/rtp/239.77.1.19:5146
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://epg.112114.xyz/logo/广东卫视.png" group-title="IPTV-广东电视台",广东卫视高清
@@ -609,3 +609,5 @@ http://192.168.1.1:9394/rtp/239.77.1.91:5146
 http://192.168.1.1:9394/rtp/239.77.0.111:5146
 #EXTINF:-1,九屏同播
 http://192.168.1.1:9394/rtp/239.77.1.234:5146
+#EXTINF:-1,广东IPTV广告
+http://192.168.1.1:9394/rtp/239.77.0.232:5146
