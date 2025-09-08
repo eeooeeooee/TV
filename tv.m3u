@@ -35,8 +35,6 @@ http://192.168.1.1:9394/rtp/239.77.1.180:5146
 http://192.168.1.1:9394/rtp/239.77.0.2:5146
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png" group-title="IPTV-卫视",北京卫视 宽色域 50p 4K
 http://192.168.1.1:9394/rtp/239.77.0.3:5146
-#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png" group-title="IPTV-卫视",北京卫视 4K
-http://192.168.1.1:9394/rtp/239.77.1.13:5146
 #EXTINF:-1,广东IPTV广告
 http://192.168.1.1:9394/rtp/239.77.0.153:5146
 #EXTINF:-1,广东IPTV广告
@@ -137,8 +135,6 @@ http://192.168.1.1:9394/rtp/239.77.0.25:5146
 http://192.168.1.1:9394/rtp/239.77.0.187:5146
 #EXTINF:-1 tvg-id="江门综合" tvg-name="江门综合" tvg-logo="https://epg.112114.xyz/logo/江门综合.png" group-title="IPTV-广东地方台",江门综合高清
 http://192.168.1.1:9394/rtp/239.77.0.201:5146
-#EXTINF:-1 tvg-id="江门侨乡生活" tvg-name="江门侨乡生活" tvg-logo="https://epg.112114.xyz/logo/江门侨乡生活.png" group-title="IPTV-广东地方台",江门侨乡生活高清
-http://192.168.1.1:9394/rtp/239.77.0.202:5146
 #EXTINF:-1 tvg-id="HZTV-1" tvg-name="HZTV-1" tvg-logo="https://epg.112114.xyz/logo/HZTV-1.png" group-title="IPTV-广东地方台",HZTV-1高清
 http://192.168.1.1:9394/rtp/239.77.1.232:5146
 #EXTINF:-1 tvg-id="HZTV-2" tvg-name="HZTV-2" tvg-logo="https://epg.112114.xyz/logo/HZTV-2.png" group-title="IPTV-广东地方台",HZTV-2高清
@@ -205,8 +201,6 @@ http://192.168.1.1:9394/rtp/239.253.43.83:5146
 http://192.168.1.1:9394/rtp/239.77.1.17:5146
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="IPTV-央视",CCTV-1高清
 http://192.168.1.1:9394/rtp/239.77.1.144:5146
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="IPTV-央视",CCTV-1高清
-http://192.168.1.1:9394/rtp/239.77.1.76:5146
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="IPTV-央视",CCTV-1高清
 http://192.168.1.1:9394/rtp/239.77.0.119:5146
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="IPTV-央视",CCTV-1高清(CCTV -1综合高清)
