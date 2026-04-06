@@ -9,6 +9,8 @@ http://192.168.1.1:9394/rtp/239.77.1.16:5146
 http://192.168.1.1:9394/rtp/239.77.0.244:5146
 #EXTINF:-1 tvg-id="广东4K" tvg-name="广东4K" tvg-logo="https://epg.112114.xyz/logo/广东4K.png" group-title="IPTV-广东电视台",广东4K超高清 窄色域 30
 http://192.168.1.1:9394/rtp/239.77.0.245:5146
+#EXTINF:-1 tvg-id="广东4K" tvg-name="广东4K" tvg-logo="https://epg.112114.xyz/logo/广东4K.png" group-title="IPTV-广东电视台",广东4K 4K
+http://192.168.1.1:9394/rtp/239.77.1.237:5146
 #EXTINF:-1 tvg-id="深圳卫视4k超" tvg-name="深圳卫视4k超" tvg-logo="https://epg.112114.xyz/logo/深圳卫视4k超.png" group-title="IPTV-深圳电视台",深圳卫视4k超高清
 http://192.168.1.1:9394/rtp/239.77.0.67:5146
 #EXTINF:-1 tvg-id="深圳卫视 25p" tvg-name="深圳卫视 25p" tvg-logo="https://epg.112114.xyz/logo/深圳卫视 25p.png" group-title="IPTV-深圳电视台",深圳卫视 25p 4K
@@ -25,6 +27,8 @@ http://192.168.1.1:9394/rtp/239.77.0.18:5146
 http://192.168.1.1:9394/rtp/239.77.0.218:5146
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="IPTV-央视",CCTV4K-25P
 http://192.168.1.1:9394/rtp/239.77.0.194:5146
+#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="IPTV-央视",CCTV-4K 4K
+http://192.168.1.1:9394/rtp/239.77.1.180:5146
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.112114.xyz/logo/湖南卫视.png" group-title="IPTV-卫视",湖南卫视4k超高清
 http://192.168.1.1:9394/rtp/239.77.0.56:5146
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://epg.112114.xyz/logo/浙江卫视.png" group-title="IPTV-卫视",浙江卫视4k超高清
@@ -37,6 +41,8 @@ http://192.168.1.1:9394/rtp/239.77.0.57:5146
 http://192.168.1.1:9394/rtp/239.77.1.36:5146
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.112114.xyz/logo/东方卫视.png" group-title="IPTV-卫视",东方卫视4k超高清
 http://192.168.1.1:9394/rtp/239.77.0.59:5146
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.112114.xyz/logo/东方卫视.png" group-title="IPTV-卫视",东方卫视 4K (AVS2)
+http://192.168.1.1:9394/rtp/239.77.1.34:5146
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png" group-title="IPTV-卫视",北京卫视4K超高清
 http://192.168.1.1:9394/rtp/239.77.0.2:5146
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png" group-title="IPTV-卫视",北京卫视4K超高清
@@ -49,14 +55,12 @@ http://192.168.1.1:9394/rtp/239.77.0.61:5146
 http://192.168.1.1:9394/rtp/239.77.1.37:5146
 #EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://epg.112114.xyz/logo/四川卫视.png" group-title="IPTV-卫视",四川卫视4k超高清
 http://192.168.1.1:9394/rtp/239.77.0.60:5146
-#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://epg.112114.xyz/logo/四川卫视.png" group-title="IPTV-卫视",四川卫视 4K (AVS2)
-http://192.168.1.1:9394/rtp/239.77.1.38:5146
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://epg.112114.xyz/logo/广东卫视.png" group-title="IPTV-广东电视台",广东卫视时移专用(广东卫视)
 http://192.168.1.1:9394/rtp/239.77.0.84:5146
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://epg.112114.xyz/logo/广东卫视.png" group-title="IPTV-广东电视台",广东卫视高清
 http://192.168.1.1:9394/rtp/239.77.0.4:5146
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://epg.112114.xyz/logo/广东卫视.png" group-title="IPTV-广东电视台",广东卫视高清
-http://192.168.1.1:9394/rtp/239.77.1.19:5146
+http://192.168.1.1:9394/rtp/239.77.1.152:5146
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://epg.112114.xyz/logo/广东卫视.png" group-title="IPTV-广东电视台",广东卫视超清
 http://192.168.1.1:9394/rtp/239.77.0.166:5146
 #EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://epg.112114.xyz/logo/广东珠江.png" group-title="IPTV-广东电视台",广东珠江
@@ -102,10 +106,6 @@ http://192.168.1.1:9394/rtp/239.77.0.9:5146
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://epg.112114.xyz/logo/深圳卫视.png" group-title="IPTV-深圳电视台",深圳卫视高清
 http://192.168.1.1:9394/rtp/239.77.1.3:5146
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://epg.112114.xyz/logo/深圳卫视.png" group-title="IPTV-深圳电视台",深圳卫视高清
-http://192.168.1.1:9394/rtp/239.77.1.107:5146
-#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://epg.112114.xyz/logo/深圳卫视.png" group-title="IPTV-深圳电视台",深圳卫视高清
-http://192.168.1.1:9394/rtp/239.77.1.189:5146
-#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://epg.112114.xyz/logo/深圳卫视.png" group-title="IPTV-深圳电视台",深圳卫视高清
 http://192.168.1.1:9394/rtp/239.77.1.148:5146
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://epg.112114.xyz/logo/深圳卫视.png" group-title="IPTV-深圳电视台",深圳卫视超清
 http://192.168.1.1:9394/rtp/239.77.0.130:5146
@@ -117,8 +117,6 @@ http://192.168.1.1:9394/rtp/239.77.1.124:5146
 http://192.168.1.1:9394/rtp/239.77.1.177:5146
 #EXTINF:-1 tvg-id="深圳电视剧频道" tvg-name="深圳电视剧频道" tvg-logo="https://epg.112114.xyz/logo/深圳电视剧频道.png" group-title="IPTV-深圳电视台",深圳电视剧频道高清
 http://192.168.1.1:9394/rtp/239.77.1.125:5146
-#EXTINF:-1 tvg-id="深圳少儿频道" tvg-name="深圳少儿频道" tvg-logo="https://epg.112114.xyz/logo/深圳少儿频道.png" group-title="IPTV-深圳电视台",深圳少儿频道高清
-http://192.168.1.1:9394/rtp/239.77.1.244:5146
 #EXTINF:-1 tvg-id="深圳龙岗频道" tvg-name="深圳龙岗频道" tvg-logo="https://epg.112114.xyz/logo/深圳龙岗频道.png" group-title="IPTV-深圳电视台",深圳龙岗频道高清
 http://192.168.1.1:9394/rtp/239.77.1.223:5146
 #EXTINF:-1 tvg-id="韶关新闻综合" tvg-name="韶关新闻综合" tvg-logo="https://epg.112114.xyz/logo/韶关新闻综合.png" group-title="IPTV-广东地方台",韶关新闻综合高清
@@ -247,16 +245,18 @@ http://192.168.1.1:9394/rtp/239.77.1.168:5146
 http://192.168.1.1:9394/rtp/239.77.0.135:5146
 #EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://epg.112114.xyz/logo/CCTV10.png" group-title="IPTV-央视",CCTV-10高清
 http://192.168.1.1:9394/rtp/239.77.1.113:5146
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://epg.112114.xyz/logo/CCTV10.png" group-title="IPTV-央视",CCTV-10高清 (CAVS)
+http://192.168.1.1:9394/rtp/239.77.1.169:5146
 #EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://epg.112114.xyz/logo/CCTV10.png" group-title="IPTV-央视",CCTV-10高清测试(CCTV-10科教高清)
 http://192.168.1.1:9394/rtp/239.77.0.134:5146
 #EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://epg.112114.xyz/logo/CCTV11.png" group-title="IPTV-央视",CCTV-11高清
 http://192.168.1.1:9394/rtp/239.77.1.108:5146
 #EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://epg.112114.xyz/logo/CCTV11.png" group-title="IPTV-央视",CCTV-11高清
 http://192.168.1.1:9394/rtp/239.77.1.238:5146
-#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://epg.112114.xyz/logo/CCTV12.png" group-title="IPTV-央视",CCTV-12高清
-http://192.168.1.1:9394/rtp/239.77.1.109:5146
 #EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://epg.112114.xyz/logo/CCTV12.png" group-title="IPTV-央视",CCTV-12高清 (CAVS)
 http://192.168.1.1:9394/rtp/239.77.1.170:5146
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://epg.112114.xyz/logo/CCTV12.png" group-title="IPTV-央视",CCTV-12高清 (CAVS)
+http://192.168.1.1:9394/rtp/239.77.1.190:5146
 #EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://epg.112114.xyz/logo/CCTV12.png" group-title="IPTV-央视",CCTV-12高清测试
 http://192.168.1.1:9394/rtp/239.77.0.136:5146
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://epg.112114.xyz/logo/CCTV13.png" group-title="IPTV-央视",CCTV-13高清
@@ -323,6 +323,8 @@ http://192.168.1.1:9394/rtp/239.77.0.126:5146
 http://192.168.1.1:9394/rtp/239.77.0.98:5146
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.112114.xyz/logo/东方卫视.png" group-title="IPTV-卫视",东方卫视高清
 http://192.168.1.1:9394/rtp/239.77.0.5:5146
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.112114.xyz/logo/东方卫视.png" group-title="IPTV-卫视",东方卫视高清 (CAVS)
+http://192.168.1.1:9394/rtp/239.77.1.156:5146
 #EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://epg.112114.xyz/logo/安徽卫视.png" group-title="IPTV-卫视",安徽卫视
 http://192.168.1.1:9394/rtp/239.77.0.183:5146
 #EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://epg.112114.xyz/logo/安徽卫视.png" group-title="IPTV-卫视",安徽卫视高清
@@ -353,8 +355,6 @@ http://192.168.1.1:9394/rtp/239.77.0.94:5146
 http://192.168.1.1:9394/rtp/239.77.0.8:5146
 #EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://epg.112114.xyz/logo/山东卫视.png" group-title="IPTV-卫视",山东卫视高清
 http://192.168.1.1:9394/rtp/239.77.1.142:5146
-#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://epg.112114.xyz/logo/山东卫视.png" group-title="IPTV-卫视",山东卫视高清 (CAVS)
-http://192.168.1.1:9394/rtp/239.77.1.153:5146
 #EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://epg.112114.xyz/logo/山东卫视.png" group-title="IPTV-卫视",山东卫视超清 (CAVS)
 http://192.168.1.1:9394/rtp/239.77.0.132:5146
 #EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://epg.112114.xyz/logo/江西卫视.png" group-title="IPTV-卫视",江西卫视
@@ -365,8 +365,6 @@ http://192.168.1.1:9394/rtp/239.77.1.219:5146
 http://192.168.1.1:9394/rtp/239.77.0.95:5146
 #EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://epg.112114.xyz/logo/湖北卫视.png" group-title="IPTV-卫视",湖北卫视高清
 http://192.168.1.1:9394/rtp/239.77.1.93:5146
-#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://epg.112114.xyz/logo/湖北卫视.png" group-title="IPTV-卫视",湖北卫视高清
-http://192.168.1.1:9394/rtp/239.77.1.174:5146
 #EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://epg.112114.xyz/logo/湖北卫视.png" group-title="IPTV-卫视",湖北卫视超清
 http://192.168.1.1:9394/rtp/239.77.0.128:5146
 #EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://epg.112114.xyz/logo/辽宁卫视.png" group-title="IPTV-卫视",辽宁卫视
@@ -385,8 +383,6 @@ http://192.168.1.1:9394/rtp/239.77.1.179:5146
 http://192.168.1.1:9394/rtp/239.77.0.124:5146
 #EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://epg.112114.xyz/logo/贵州卫视.png" group-title="IPTV-卫视",贵州卫视
 http://192.168.1.1:9394/rtp/239.77.0.230:5146
-#EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://epg.112114.xyz/logo/贵州卫视.png" group-title="IPTV-卫视",贵州卫视高清
-http://192.168.1.1:9394/rtp/239.77.1.221:5146
 #EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://epg.112114.xyz/logo/四川卫视.png" group-title="IPTV-卫视",四川卫视时移专用(四川卫视)
 http://192.168.1.1:9394/rtp/239.77.0.159:5146
 #EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://epg.112114.xyz/logo/四川卫视.png" group-title="IPTV-卫视",四川卫视高清
@@ -511,16 +507,12 @@ http://192.168.1.1:9394/rtp/239.77.0.212:5146
 http://192.168.1.1:9394/rtp/239.77.0.164:5146
 #EXTINF:-1 tvg-id="CETV-1" tvg-name="CETV-1" tvg-logo="https://epg.112114.xyz/logo/CETV-1.png" group-title="IPTV-数字付费",CETV-1
 http://192.168.1.1:9394/rtp/239.77.0.200:5146
-#EXTINF:-1 tvg-id="CETV-1" tvg-name="CETV-1" tvg-logo="https://epg.112114.xyz/logo/CETV-1.png" group-title="IPTV-数字付费",CETV-1高清
-http://192.168.1.1:9394/rtp/239.77.1.222:5146
 #EXTINF:-1 tvg-id="CETV4" tvg-name="CETV4" tvg-logo="https://epg.112114.xyz/logo/CETV4.png" group-title="IPTV-数字付费",CETV4
 http://192.168.1.1:9394/rtp/239.253.43.114:5146
 #EXTINF:-1 tvg-id="CETV-4" tvg-name="CETV-4" tvg-logo="https://epg.112114.xyz/logo/CETV-4.png" group-title="IPTV-数字付费",CETV-4高清
 http://192.168.1.1:9394/rtp/239.253.43.40:5146
 #EXTINF:-1 tvg-id="早期教育" tvg-name="早期教育" tvg-logo="https://epg.112114.xyz/logo/早期教育.png" group-title="IPTV-数字付费",早期教育高清
 http://192.168.1.1:9394/rtp/239.77.1.122:5146
-#EXTINF:-1 tvg-id="早期教育" tvg-name="早期教育" tvg-logo="https://epg.112114.xyz/logo/早期教育.png" group-title="IPTV-数字付费",早期教育高清
-http://192.168.1.1:9394/rtp/239.77.1.114:5146
 #EXTINF:-1 tvg-id="早期教育" tvg-name="早期教育" tvg-logo="https://epg.112114.xyz/logo/早期教育.png" group-title="IPTV-数字付费",早期教育高清
 http://192.168.1.1:9394/rtp/239.77.0.180:5146
 #EXTINF:-1 tvg-id="中国天气" tvg-name="中国天气" tvg-logo="https://epg.112114.xyz/logo/中国天气.png" group-title="IPTV-数字付费",中国天气高清
@@ -543,20 +535,18 @@ http://192.168.1.1:9394/rtp/239.253.43.98:5146
 http://192.168.1.1:9394/rtp/239.77.1.22:5146
 #EXTINF:-1 tvg-id="睛彩" tvg-name="睛彩" tvg-logo="https://epg.112114.xyz/logo/睛彩.png" group-title="IPTV-数字付费",睛彩竞技高清
 http://192.168.1.1:9394/rtp/239.77.1.20:5146
-#EXTINF:-1 tvg-id="睛彩" tvg-name="睛彩" tvg-logo="https://epg.112114.xyz/logo/睛彩.png" group-title="IPTV-数字付费",睛彩篮球高清
-http://192.168.1.1:9394/rtp/239.77.1.21:5146
 #EXTINF:-1 tvg-id="IPTV1" tvg-name="IPTV1" tvg-logo="https://epg.112114.xyz/logo/IPTV1.png" group-title="IPTV-IPTV频道",IPTV1高清
 http://192.168.1.1:9394/rtp/239.77.1.7:5146
 #EXTINF:-1 tvg-id="IPTV2" tvg-name="IPTV2" tvg-logo="https://epg.112114.xyz/logo/IPTV2.png" group-title="IPTV-IPTV频道",IPTV2高清
 http://192.168.1.1:9394/rtp/239.77.1.8:5146
 #EXTINF:-1 tvg-id="IPTV爱综艺" tvg-name="IPTV爱综艺" tvg-logo="https://epg.112114.xyz/logo/IPTV爱综艺.png" group-title="IPTV-IPTV频道",爱综艺
 http://192.168.1.1:9394/rtp/239.77.0.107:5146
+#EXTINF:-1 tvg-id="IPTV3" tvg-name="IPTV3" tvg-logo="https://epg.112114.xyz/logo/IPTV3.png" group-title="IPTV-IPTV频道",IPTV3高清
+http://192.168.1.1:9394/rtp/239.77.1.9:5146
 #EXTINF:-1 tvg-id="IPTV4" tvg-name="IPTV4" tvg-logo="https://epg.112114.xyz/logo/IPTV4.png" group-title="IPTV-IPTV频道",IPTV4高清
 http://192.168.1.1:9394/rtp/239.77.1.10:5146
 #EXTINF:-1 tvg-id="IPTV爱体育" tvg-name="IPTV爱体育" tvg-logo="https://epg.112114.xyz/logo/IPTV爱体育.png" group-title="IPTV-IPTV频道",爱体育
 http://192.168.1.1:9394/rtp/239.77.0.108:5146
-#EXTINF:-1 tvg-id="IPTV爱体育" tvg-name="IPTV爱体育" tvg-logo="https://epg.112114.xyz/logo/IPTV爱体育.png" group-title="IPTV-IPTV频道",爱体育高清
-http://192.168.1.1:9394/rtp/239.77.1.116:5146
 #EXTINF:-1 tvg-id="IPTV爱体育" tvg-name="IPTV爱体育" tvg-logo="https://epg.112114.xyz/logo/IPTV爱体育.png" group-title="IPTV-IPTV频道",爱体育高清
 http://192.168.1.1:9394/rtp/239.77.0.176:5146
 #EXTINF:-1 tvg-id="IPTV爱电影" tvg-name="IPTV爱电影" tvg-logo="https://epg.112114.xyz/logo/IPTV爱电影.png" group-title="IPTV-IPTV频道",爱电影
@@ -573,6 +563,8 @@ http://192.168.1.1:9394/rtp/239.77.0.100:5146
 http://192.168.1.1:9394/rtp/239.77.0.101:5146
 #EXTINF:-1 tvg-id="IPTV法治" tvg-name="IPTV法治" tvg-logo="https://epg.112114.xyz/logo/IPTV法治.png" group-title="IPTV-IPTV频道",IPTV法治
 http://192.168.1.1:9394/rtp/239.77.0.102:5146
+#EXTINF:-1 tvg-id="IPTV法治" tvg-name="IPTV法治" tvg-logo="https://epg.112114.xyz/logo/IPTV法治.png" group-title="IPTV-IPTV频道",IPTV法治
+http://192.168.1.1:9394/rtp/239.77.1.86:5146
 #EXTINF:-1 tvg-id="IPTV魅力时尚" tvg-name="IPTV魅力时尚" tvg-logo="https://epg.112114.xyz/logo/IPTV魅力时尚.png" group-title="IPTV-IPTV频道",魅力时尚
 http://192.168.1.1:9394/rtp/239.77.0.110:5146
 #EXTINF:-1 tvg-id="IPTV经典电影" tvg-name="IPTV经典电影" tvg-logo="https://epg.112114.xyz/logo/IPTV经典电影.png" group-title="IPTV-IPTV频道",经典电影
@@ -585,8 +577,6 @@ http://192.168.1.1:9394/rtp/239.77.0.106:5146
 http://192.168.1.1:9394/rtp/239.77.1.90:5146
 #EXTINF:-1 tvg-id="IPTV少儿动画" tvg-name="IPTV少儿动画" tvg-logo="https://epg.112114.xyz/logo/IPTV少儿动画.png" group-title="IPTV-IPTV频道",少儿动画
 http://192.168.1.1:9394/rtp/239.77.0.109:5146
-#EXTINF:-1 tvg-id="IPTV少儿动画" tvg-name="IPTV少儿动画" tvg-logo="https://epg.112114.xyz/logo/IPTV少儿动画.png" group-title="IPTV-IPTV频道",IPTV少儿动画
-http://192.168.1.1:9394/rtp/239.77.1.91:5146
 #EXTINF:-1 tvg-id="IPTV收视指南" tvg-name="IPTV收视指南" tvg-logo="https://epg.112114.xyz/logo/IPTV收视指南.png" group-title="IPTV-IPTV频道",收视指南
 http://192.168.1.1:9394/rtp/239.77.0.111:5146
 #EXTINF:-1,Unknown@239.77.1.234:5146
